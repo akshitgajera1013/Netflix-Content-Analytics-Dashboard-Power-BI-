@@ -134,7 +134,7 @@ Some insights revealed through the dashboard:
 ![Overview](images/overview.png)
 
 ## Global Content Insights
-![Global-Content](images/gloabal_content.png.png)
+![Global-Content](images/gloabal_content.png)
 
 ---
 
