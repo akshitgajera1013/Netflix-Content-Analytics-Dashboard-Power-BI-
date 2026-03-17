@@ -128,10 +128,13 @@ Some insights revealed through the dashboard:
 * Netflix content is distributed across **hundreds of countries**.
 
 ---
-
 # 📷 Dashboard Preview
 
-*(Add screenshots of your dashboard here)*
+## Overview Dashboard
+![Overview](images/overview.png)
+
+## Global Content Insights
+![Global-Content](images/gloabal_content.png.png)
 
 ---
 
